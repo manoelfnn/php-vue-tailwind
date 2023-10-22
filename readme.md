@@ -1,0 +1,1 @@
+Simples projeto para consumir uma API utilizando a stack de tecnologias PHP, Vue.JS 3 e Tailwind
