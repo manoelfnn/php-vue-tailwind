@@ -54,6 +54,9 @@
                                 currentUser.address.country + '&z=14&output=embed'"></iframe>
                         </div>
                     </div>
+                    <div v-if="!currentUser" class="h-full flex items-center justify-center">
+                        <div>Selecione um usuário para ver mais informações.</div>
+                    </div>
                 </div>
             </div>
 
